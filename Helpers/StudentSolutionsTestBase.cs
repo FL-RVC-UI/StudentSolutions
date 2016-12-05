@@ -47,5 +47,7 @@ namespace StudentSolutions.Helpers
         }
     }
 
-
+    public class BaseFrameWork
+    {
+    }
 }

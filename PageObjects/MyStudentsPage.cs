@@ -1,6 +1,7 @@
 ﻿using Automation;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
+using StudentSolutions.PageObject;
 using System;
 using System.Collections.Generic;
 using System.Linq;

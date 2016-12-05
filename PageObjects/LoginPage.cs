@@ -76,4 +76,8 @@ namespace StudentSolutions.PageObject
         }
         #endregion
     }
+
+    public class BasePageObject
+    {
+    }
 }
