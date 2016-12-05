@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Frontline-ServiceDiscovery.Consul</id>
+    <version>0.4.1.11</version>
+    <title>Frontline-ServiceDiscovery.Consul</title>
+    <authors>Frontline Technologies</authors>
+    <owners>Frontline Technologies</owners>
+    <projectUrl>https://github.com/FrontlineTechnologies/Util-ServiceDiscovery</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Service Register and Discovery library including implementation for Consul</description>
+    <summary>Service Register and Discovery library including implementation for Consul</summary>
+    <dependencies>
+      <dependency id="Common.Logging" version="3.3.1" />
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+      <dependency id="Consul" version="0.6.3.6" />
+    </dependencies>
+  </metadata>
+</package>

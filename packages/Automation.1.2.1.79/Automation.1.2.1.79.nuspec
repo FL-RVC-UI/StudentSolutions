@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Automation</id>
+    <version>1.2.1.79</version>
+    <authors>Frontline Technologies</authors>
+    <owners>Frontline Technologies</owners>
+    <projectUrl>https://github.com/FrontlineTechnologies/QA-UI-AutomationFramework</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Framework for building QA UI automation with Selenium</description>
+    <summary>Framework for building QA UI automation with Selenium</summary>
+    <copyright>Copyright Frontline Technologies 2016</copyright>
+    <tags>QA UI Automation</tags>
+    <dependencies>
+      <dependency id="Frontline-ServiceDiscovery.Consul" version="0.4.1.11" />
+      <dependency id="Selenium.Support" version="2.53.0" />
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="5.2.3" />
+      <dependency id="Selenium.WebDriver" version="2.53.0" />
+      <dependency id="Selenium.WebDriver.Extensions" version="2.0.0" />
+      <dependency id="RestSharp" version="105.2.3" />
+      <dependency id="Faker.Net.Portable" version="2.2.0.64" />
+    </dependencies>
+  </metadata>
+</package>
