@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace StudentSolutions.PageObjects
 {
-    public class MyStudentsPage : BasePageObject
+    public class MyStudentsPage : PageObject.BasePageObject
     {
         private IWebDriver local_driver;
         public MyStudentsPage(IWebDriver driver)
